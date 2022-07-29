@@ -1,0 +1,8 @@
+main: me.hybridplague.staffmentors.StaffMentors
+name: StaffMentors
+author: HybridPlague
+version: 2.0
+api-version: 1.13
+
+commands:
+  mentor:
